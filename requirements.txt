@@ -1,0 +1,4 @@
+# The officially supported versions of the following packages are their
+# python3-* equivalent distributed in Ubuntu 24.04 and Debian 12
+webp == 0.4.0
+
